@@ -1,10 +1,10 @@
 <?php
 
-namespace NumaxLab\NovaCKEditor5Classic\Models;
+namespace Medteck\NovaCKEditor5Classic\Models;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\Storage;
-use NumaxLab\NovaCKEditor5Classic\CKEditor5Classic;
+use Medteck\NovaCKEditor5Classic\CKEditor5Classic;
 
 class PendingAttachment extends Model
 {

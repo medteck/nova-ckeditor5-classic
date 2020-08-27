@@ -1,14 +1,14 @@
 <?php
 
-namespace NumaxLab\NovaCKEditor5Classic\Handlers;
+namespace Medteck\NovaCKEditor5Classic\Handlers;
 
 use Illuminate\Http\Request;
 use Illuminate\Http\Response;
 use Illuminate\Http\UploadedFile;
 use Illuminate\Support\Facades\Storage;
 use Illuminate\Support\Str;
-use NumaxLab\NovaCKEditor5Classic\CKEditor5Classic;
-use NumaxLab\NovaCKEditor5Classic\Models\PendingAttachment;
+use Medteck\NovaCKEditor5Classic\CKEditor5Classic;
+use Medteck\NovaCKEditor5Classic\Models\PendingAttachment;
 
 class StorePendingAttachment
 {

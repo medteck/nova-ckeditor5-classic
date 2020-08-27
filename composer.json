@@ -1,5 +1,5 @@
 {
-    "name": "numaxlab/nova-ckeditor5-classic",
+    "name": "medteck/nova-ckeditor5-classic",
     "description": "A Laravel Nova CKEditor5 Classic Field.",
     "keywords": [
         "laravel",
